@@ -1,1 +1,11 @@
 # Python-Project-for-Data-Science-Coursera
+![image](https://user-images.githubusercontent.com/83023332/220942807-3c5ee88f-2011-40b1-b954-4900c615b461.png)
+![image](https://user-images.githubusercontent.com/83023332/220943103-4eaffab4-75bb-4432-a0af-ddab55501489.png)
+![image](https://user-images.githubusercontent.com/83023332/220943534-87119a04-721e-44e4-81a6-2700d8424222.png)
+![image](https://user-images.githubusercontent.com/83023332/220943631-11cbe025-1b49-437b-9ce5-a619c8b4224e.png)
+![image](https://user-images.githubusercontent.com/83023332/220943694-68b4db52-7b6b-49b1-8c41-b166aa03c522.png)
+![image](https://user-images.githubusercontent.com/83023332/220943806-0195251d-6238-4ffb-853c-bfdcdfed4023.png)
+![image](https://user-images.githubusercontent.com/83023332/220943986-c7d977e2-41cf-4675-9f20-f80ed2c9e0d3.png)
+![image](https://user-images.githubusercontent.com/83023332/220944092-d1f7cf40-ee3e-45de-a45a-0246259ba5fc.png)
+![image](https://user-images.githubusercontent.com/83023332/220944210-159e0c3a-fe49-49bb-9301-9f74cd64b903.png)
+![image](https://user-images.githubusercontent.com/83023332/220944287-0b0a379b-10ce-43b1-b5f6-16ad015a2ddf.png)
